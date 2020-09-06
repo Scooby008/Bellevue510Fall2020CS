@@ -1,1 +1,7 @@
-
+# DSC510
+# Week 1
+# Hello World Program
+# Author: Grant Parr
+# 09/04/20
+# The purpose of this program is to print Hello World
+print("Hello World")
